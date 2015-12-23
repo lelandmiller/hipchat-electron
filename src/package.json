@@ -1,0 +1,11 @@
+{
+  "name": "hipchat-electron",
+  "version": "0.0.0",
+  "description": "An electron wrapper for the HipChat web client",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "CC0-1.0"
+}

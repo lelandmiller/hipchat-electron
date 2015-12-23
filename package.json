@@ -1,0 +1,19 @@
+{
+  "name": "hipchat-electron",
+  "version": "0.0.0",
+  "description": "An electron wrapper for the HipChat web client",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "./start.sh",
+    "build": "electron-packager . hipchat-electron --platform=linux --arch=x64 --version=0.36.1 --out=build"
+  },
+  "bin": {
+      "hipchat-electron": "start.sh"
+  },
+  "author": "Leland Miller",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron-packager": "^5.2.0",
+    "electron-prebuilt": "^0.36.0"
+  }
+}
