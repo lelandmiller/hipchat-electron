@@ -1,6 +1,6 @@
 {
   "name": "hipchat-electron",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An electron wrapper for the HipChat web client",
   "main": "src/main.js",
   "repository": "lelandmiller/hipchat-electron",
