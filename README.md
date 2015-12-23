@@ -1,4 +1,4 @@
-# HipChat Electron Wrapper
+# Unofficial HipChat Electron Wrapper
 
 This is just a simple wrapper for the HipChat web app. I started with the
 [electron-quick-start](https://github.com/atom/electron-quick-start), which I
