@@ -8,6 +8,11 @@ whatsoever and HipChat, Atlassian, etc. are all registered trademarks of
 Atlassian. This repository simply provides a web browser that points to
 HipChat's web client. Super simple.
 
+## Installation
+
+`npm i -g hipchat-electron` will install the package globally,
+`hipchat-electron` will then start the application.
+
 ## Usage
 
 `npm start` spins up a development instance.
